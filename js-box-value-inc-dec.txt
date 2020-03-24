@@ -1,0 +1,10 @@
+                      let addBtn = document.querySelector("#add");
+                      let subtractBtn = document.querySelector("#subtract");
+                      let input = document.querySelector("input");
+
+                      addBtn.addEventListener("click", () => {
+                      input.value = parseInt(input.value) + 1;
+                       })
+                      subtractBtn.addEventListener('click', () => {
+                      input.value = parseInt(input.value) - 1;
+                      }) 

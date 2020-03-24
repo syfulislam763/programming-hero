@@ -1,0 +1,13 @@
+h1 {
+    color: goldenrod;
+}
+
+h3 {
+    color: lightsalmon;
+}
+
+p {
+    background-color: lightcyan;
+    color: lightseagreen;
+    padding: 10px 20px;
+}
